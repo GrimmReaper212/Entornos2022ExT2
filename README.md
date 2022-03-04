@@ -11,3 +11,7 @@
 ## Problema 3
 
 ### Resuelto el problema 3, agregados nuevos métodos con nuevos filtros y su test unitario
+
+## Problema 4
+
+### Físicamente no da tiempo
